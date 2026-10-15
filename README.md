@@ -26,4 +26,4 @@ An educational dashboard for learning the Hudson River from live data: USGS disc
 
 ## Stack
 
-TypeScript · Next.js · React · Node · Rust · ClickHouse · Trigger.dev · Vercel
+TypeScript · Next.js · React · Node · Rust · ClickHouse · Vercel
