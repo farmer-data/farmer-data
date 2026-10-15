@@ -6,8 +6,11 @@ Full-stack engineer working in **TypeScript** and **Rust**, based between Hoboke
 
 **[anthropics/buffa](https://github.com/anthropics/buffa)**: Rust protobuf with editions, JSON and zero-copy views
 
-- Merged: [#691](https://github.com/anthropics/buffa/pull/691) consistent JSON errors for unknown enum names across every decode path
-- In review: [#710](https://github.com/anthropics/buffa/pull/710) `FieldMask::overlaps` · [#712](https://github.com/anthropics/buffa/pull/712) iteration and `Extend` for `Struct`/`ListValue`/`FieldMask` · [#701](https://github.com/anthropics/buffa/pull/701) JSON float-rounding docs
+- Merged (4 PRs):
+  - [#691](https://github.com/anthropics/buffa/pull/691) consistent JSON errors for unknown enum names across every decode path
+  - [#710](https://github.com/anthropics/buffa/pull/710) `FieldMask::overlaps`
+  - [#712](https://github.com/anthropics/buffa/pull/712) iteration and `Extend` for `Struct`/`ListValue`/`FieldMask`
+  - [#701](https://github.com/anthropics/buffa/pull/701) docs on JSON float double-rounding
 
 **[anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)**: GitHub Action for Claude Code (TypeScript, Bun)
 
