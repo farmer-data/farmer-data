@@ -19,8 +19,8 @@ Full-stack engineer working in **Rust** and **TypeScript**, based between Hoboke
 ## Projects
 
 **[Paddle Agent](https://github.com/farmer-data/paddle-agent)**: [live](https://paddle-agent.vercel.app/)
-A Hudson River paddling guide that answers "can I paddle now?" from live USGS, NOAA and NWS data. Next.js 16 and React 19 chat UI, a Trigger.dev agent plus a scheduled 15-minute ingest task, ClickHouse storage, and unit-tested go/caution/no-go briefing logic.
+A safety-first NYC paddling guide for six zones on the Hudson and East River. It turns live USGS, NOAA, NWS and Open-Meteo data into unit-tested go/caution/no-go verdicts, with a MapLibre map and route planner, browser-stored trip logs, and a rate-limited Qwen chat guide. Next.js 16 and React 19 on Vercel.
 
 ## Stack
 
-Rust · TypeScript · Next.js · React · Node · ClickHouse · Vercel
+Rust · TypeScript · Next.js · React · Node · Vercel
