@@ -1,6 +1,6 @@
 # Hi, I'm farmer 👋
 
-Full-stack engineer working in **Rust** and **TypeScript**, based between Hoboken NJ, Tokyo and Bangkok. Reach me at farmerlesheng@gmail.com.
+Full-stack engineer working in **Rust** and **TypeScript**, based between Hoboken NJ, Tokyo and Bangkok. Reach me at cryptotangyou@gmail.com.
 
 ## Open-source contributions
 
